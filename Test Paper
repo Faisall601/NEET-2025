@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NEET 2026 - Aim 720</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">NEET 2026</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Mock Tests</a></li>
+        <li><a href="#">Syllabus</a></li>
+        <li><a href="#">Question Practice</a></li>
+        <li><a href="#">Downloads</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h1>NEET 2026</h1>
+      <h2>Aim 720</h2>
+      <p><em>Free Education to all</em></p>
+      <p>Your one-stop destination for NEET preparation – question papers, coaching booklets, DPPs, and more!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 NEET 2026. All rights reserved.</p>
+  </footer>
+</body>
+</html>
